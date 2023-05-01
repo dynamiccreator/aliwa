@@ -4,8 +4,7 @@ A light wallet for the [ALIAS](https://alias.cash/) cryptocurrency.
 ## Donations
 The easiest way to contribute to the Alias Light Wallet: Donate with ALIAS! 
 	
-	Public ALIAS address: SSq7CjsPzfanmCkcN9XhKHg7yMn3bXj8i5
-	Private ALIAS address: smYhZCsqgJdRkWB64GaLZ165HejRCL3tAkmDmxdCrG2McnuH7gReE3LjDoXLRqf3txrwiuE3BCpFFAADDbU1oYW4fr7y9MnU37U3AD
+	
 
 ## WARNING: Experimental ALPHA Software
 **Please put no funds on this wallet, you're not willing to lose.
