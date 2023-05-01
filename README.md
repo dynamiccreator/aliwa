@@ -1,10 +1,6 @@
 # aliwa
 A light wallet for the [ALIAS](https://alias.cash/) cryptocurrency.
 
-## Donations
-The easiest way to contribute to the Alias Light Wallet: Donate with ALIAS! 
-	
-	
 
 ## WARNING: Experimental ALPHA Software
 **Please put no funds on this wallet, you're not willing to lose.
